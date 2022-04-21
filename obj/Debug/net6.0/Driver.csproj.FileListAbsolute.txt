@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.AssemblyInfo.cs
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Lessons\trash\Driver\bin\Debug\net6.0\Driver.exe
+C:\Users\Danil\Desktop\Lessons\trash\Driver\bin\Debug\net6.0\Driver.deps.json
+C:\Users\Danil\Desktop\Lessons\trash\Driver\bin\Debug\net6.0\Driver.runtimeconfig.json
+C:\Users\Danil\Desktop\Lessons\trash\Driver\bin\Debug\net6.0\Driver.dll
+C:\Users\Danil\Desktop\Lessons\trash\Driver\bin\Debug\net6.0\ref\Driver.dll
+C:\Users\Danil\Desktop\Lessons\trash\Driver\bin\Debug\net6.0\Driver.pdb
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.dll
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\ref\Driver.dll
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.pdb
+C:\Users\Danil\Desktop\Lessons\trash\Driver\obj\Debug\net6.0\Driver.genruntimeconfig.cache
